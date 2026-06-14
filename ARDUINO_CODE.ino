@@ -1,5 +1,3 @@
-//ARDUINO CODE
-
 #include <DHT.h>
 
 #define DHTPIN 2
